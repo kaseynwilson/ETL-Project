@@ -15,7 +15,6 @@ Utilize two or more datasets to complete ETL and provide an outline of the follo
 Use the following datasets related to Gas prices, unemployment rate and homicide reports.
 * https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021
 * https://www.kaggle.com/tunguz/us-monthly-unemployment-rate-1948-present
-* https://www.kaggle.com/murderaccountability/homicide-reports
 
 ## Rough Breakdown of Tasks
 * Finalize datasets to utilize
